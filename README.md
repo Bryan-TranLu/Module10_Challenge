@@ -13,6 +13,9 @@ Import the following packages before running the script.
 import pandas as pd
 import hvplot.pandas
 from pathlib import Path
+from sklearn.cluster import KMeans
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
 ```
 
 ## Usage
