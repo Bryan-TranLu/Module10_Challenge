@@ -5,7 +5,7 @@ Submission for Bryan Tran Lu
 This assignment utilizes a GeoViews and hvPlot for data visualization.
 
 ## Instructions
-The assignment script can be found in the Starter_Code folder. The file name is `san_francisco_housing.ipynb`.
+The assignment script can be found in the Starter_Code folder. The file name is `crypto_investments.ipynb`.
 
 ## Installation Requirements
 Import the following packages before running the script.
