@@ -21,7 +21,7 @@ from sklearn.preprocessing import StandardScaler
 ## Images
 
 
-![Image Link](https://github.com/Bryan-TranLu/Module07_Challenge/blob/main/Voila%20Screenshot.png)](https://github.com/Bryan-TranLu/Module10_Challenge/blob/main/Images/Composite_Plots_image.png)
+![Image Link](https://github.com/Bryan-TranLu/Module10_Challenge/blob/main/Images/Composite_Plots_image.png)
 
 ## Authors and Support
 If there are any questions regarding the assignment, please reach out via email.
