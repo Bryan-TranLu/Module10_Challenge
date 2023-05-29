@@ -19,7 +19,7 @@ from sklearn.preprocessing import StandardScaler
 ```
 
 ## Images
-
+The following is the output of the composite plots comparing the elbow curves and clusters data for the original and the PCA data.
 
 ![Image Link](https://github.com/Bryan-TranLu/Module10_Challenge/blob/main/Images/Composite_Plots_image.png)
 
