@@ -1,8 +1,8 @@
 # Module10_Challenge
-Submission for Bryan Tran Lu
+Submission for Bryan Tran Lu.
 
 ## Description
-This assignment utilizes a GeoViews and hvPlot for data visualization.
+This assignment explores unsupervised learning models on a cryptocurrency dataset. The data is cleaned using StandardScaler, and the optimal value of 'k' is calculate using using a KMeans model followed by plotting an Elbow Curve. The number of features are reduced and the data is assessed using Principal Component Analysis (PCA). Elbow curves and cluster plots are compared at the end of the script.
 
 ## Instructions
 The assignment script can be found in the Starter_Code folder. The file name is `crypto_investments.ipynb`.
