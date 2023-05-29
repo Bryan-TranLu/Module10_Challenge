@@ -18,7 +18,8 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 ```
 
-## Usage
+## Images
+
 
 ## Authors and Support
 If there are any questions regarding the assignment, please reach out via email.
